@@ -9,5 +9,11 @@ Plugin>Add new > Choose m-zip-upload.zip then install
 
 Usuage:
 Choose the zip file first, then press upload zip
+Image File Supported are:
+png
+jpeg
+jpg
+gif
 
+**warning**
 Wordpress might reject the image file if it is more than 1.5 mb.
