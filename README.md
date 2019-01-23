@@ -5,4 +5,9 @@ upload your multiple images to media library from the zip file in bulk.
 Very minimal and easy to use.
 
 Installation Note:
-Plugin>Add new > Choose m-zip-upload.zip
+Plugin>Add new > Choose m-zip-upload.zip then install
+
+Usuage:
+Choose the zip file first, then press upload zip
+
+Wordpress might reject the image file if it is more than 1.5 mb.
