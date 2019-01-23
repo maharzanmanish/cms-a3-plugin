@@ -17,4 +17,4 @@ jpg
 gif
 
 **WARNING**::
-Wordpress might reject the image file if it is more than 1.5 mb.
+Wordpress might reject the image file if it is more than 2 mb.
