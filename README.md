@@ -15,5 +15,5 @@ jpeg
 jpg
 gif
 
-**warning**
+**WARNING**::
 Wordpress might reject the image file if it is more than 1.5 mb.
